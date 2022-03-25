@@ -1,7 +1,110 @@
 body[data-theme="light"] {
     @import '../src/scss/light-slider.scss';
- 
+
     .slider-tab {
-       background-color: #D7CAAA;
+       background-color: #CDB599FF;
     }
-}
+
+    .title-styles {
+       color: white;
+    }
+
+    .header-icon {
+       color: #3C342C;
+       opacity: 0.8;
+    }
+
+    .slider-image {
+       border: 5px solid #CDB599FF;
+    }
+
+    .language {
+       background-color: #CDB599FF;
+    }
+
+    .link-href {
+       color: white;
+    }
+
+    .project-date {
+       background-color: #918e97;
+       color: white;
+    }
+
+    header {
+       background-color: #42EADDFF;
+       h1 {
+          color: white;
+       }
+    }
+
+    #about {
+       background-color: #CDB599FF;
+       h1 span {
+          color: black;
+       }
+       .polaroid span {
+          background:  #6d6d6d;
+       }
+       .card {
+          background: #6d6d6d;
+          color: white;
+       }
+    }
+
+    #portfolio {
+       background: #42EADDFF;
+       .section-title {
+          color: white !important;
+       }
+       .foto div {
+          background: #6d6d6d;
+       }
+       .project-title-settings {
+          color: white;
+       }
+    }
+    #skills{
+      background: #CDB599FF;
+      h1{
+         color: black;
+      }
+    }
+    #resume {
+       background: #42EADDFF;
+       .section-title {
+          color: white !important;
+       }
+
+       .experience-badge {
+          background: #CDB599FF !important;
+          color: white;
+       }
+
+       .main-badge {
+          background: #CDB599FF !important;
+       }
+
+       .vertical-timeline-element-date {
+          color: black;
+       }
+
+       .vertical-timeline-element-icon {
+          background: #CDB599FF !important;
+       }
+       @media only screen and (max-width: 1169px) {
+          .vertical-timeline-element-date {
+             color: black;
+          }
+       }
+    }
+
+    .modal-inside .modal-content {
+       background: #5b5b5b;
+       color: white;
+    }
+
+    .close-icon {
+       color: white;
+    }
+ }

@@ -5,8 +5,8 @@
 <h2>Portfolio Template</h2>
 
 <pre>
-⭐ Easy to adapt and deploy portfolio project covering most important 
-sections(about, exp, skills, projects), inspired with solutions found 
+⭐ Easy to adapt and deploy portfolio project covering most important
+sections(about, exp, skills, projects), inspired with solutions found
 at GitHub. Check live preview(link below).
 </pre>
 
@@ -17,16 +17,11 @@ at GitHub. Check live preview(link below).
 <br/>
 
 <h3>:eye_speech_bubble: Live demo</h3>
-
-Check live demonstration <a href="https://dorota1997.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
-
-<img width="100%" src="https://github.com/Dorota1997/react-frontend-dev-portfolio/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
-
 <h3>:books: Getting started</h3>
 
 1. Clone or fork project.
 2. Install required dependencies with `npm install`.
-3. Remove `homepage` entirely from `package.json` or set it to single dot. 
+3. Remove `homepage` entirely from `package.json` or set it to single dot.
 
 ```
 // package.json
@@ -45,10 +40,10 @@ Check live demonstration <a href="https://dorota1997.github.io/react-frontend-de
 
 <pre>
 ⚠️ Note that:
-- if you want to have portfolio on different repository than `{username}.github.io`, 
-set `homepage` in `package.json` to `https://{username}.github.io/{repository-name}/` 
+- if you want to have portfolio on different repository than `{username}.github.io`,
+set `homepage` in `package.json` to `https://{username}.github.io/{repository-name}/`
 before deploying portfolio.
-- if you want to run it locally with <strong>npm run start</strong>, make sure that you have edited 
+- if you want to run it locally with <strong>npm run start</strong>, make sure that you have edited
 homepage property or json data won't load.
 </pre>
 
