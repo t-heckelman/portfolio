@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "I'm Teddy Heckelman, aspiring Software Engineer. I have experience with OOP in C++, Full-Stack web development with frameworks such as: React, NodeJS, Express, and Angular. Additionally, I have made bots using python and cURL requests.",
+      "description": "I'm Teddy Heckelman, aspiring Software Engineer and second year Computer Science student at Colorado University at Boulder| College of Engineering and Applied Sciences. I have experience with OOP in C++, Full-Stack web development with frameworks such as: React, NodeJS, Express, and Angular. Additionally, I have made bots using python and cURL requests.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Music Space",
         "startDate": "2022",
-        "description": "This Web Application was the most difficult project I have created and is still in production. It utilizes mulitple APIs and database calls. Though it is not posted yet, I hope to get it out by the end of the 2022 Summer.",
+        "description": "This Web Application was the most difficult project I have created and is still in production. It utilizes multiple APIs and database calls. Though it is not posted yet, I hope to get it out by the end of the 2022 Summer.",
         "images": [
           "images/portfolio/music-space/p1.jpg",
           "images/portfolio/music-space/p2.jpg",
